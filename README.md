@@ -16,10 +16,11 @@ Ask people about themselves and give them a semi-personalised, 1 step at a time,
 
 Make the initial few weeks of their journey into reversing climate change guided, keep giving progressively difficult things to do.
 
-Sample user flow: https://landbot.io/u/H-427314-S9BKE7V242FKEWXP/index.html
+[Sample user bot flow](https://landbot.io/u/H-427314-S9BKE7V242FKEWXP/index.html)
+
 Note: I used a bot builder because it gets the point across quicker, the UI definitely should not be a bot.
 
-Originally thought for: https://protect.earth
+Originally thought for: [https://protect.earth](https://protect.earth)
 
 ### Social credits to bridge social and economic incentives short term
 
