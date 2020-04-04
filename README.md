@@ -1,37 +1,50 @@
-## Welcome to GitHub Pages
+## Climate change
 
-You can use the [editor on GitHub](https://github.com/ofpiyush/ideas/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Onboarding with actionable items for climate change
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#### Motivation
 
-### Markdown
+It can be daunting to learn about climate change and figure what's the best way one can contribute with the skills one has.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+New user experience to the entire movement is very unclear and overwhelming. Most of the information is either scary info dump or skeptic pieces. 
 
-```markdown
-Syntax highlighted code block
+Given there is nothing actionable for quite a while and realising what actions one can take is cumbersome, partly-hidden and heavily-debated, most people would drop off before they can figure how they can help.
 
-# Header 1
-## Header 2
-### Header 3
+#### Solution
 
-- Bulleted
-- List
+Ask people about themselves and give them a semi-personalised, 1 step at a time, actionable onboarding.
 
-1. Numbered
-2. List
+Make the initial few weeks of their journey into reversing climate change guided, keep giving progressively difficult things to do.
 
-**Bold** and _Italic_ and `Code` text
+Sample user flow: https://landbot.io/u/H-427314-S9BKE7V242FKEWXP/index.html
+Note: I used a bot builder because it gets the point across quicker, the UI definitely should not be a bot.
 
-[Link](url) and ![Image](src)
-```
+Originally thought for: https://protect.earth
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Social credits to bridge social and economic incentives short term
 
-### Jekyll Themes
+#### Motivation
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ofpiyush/ideas/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Most people can't / aren't going to give a shit about something that will happen 5-10 years from now. We need to bridge rewards for them short term to do the right thing.
 
-### Support or Contact
+#### Solution
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Make a social credits system to give short term incentives to people to reduce their environmental footprint.
+Use this to create social and economic pressure on govt and industry to improve their impact on climate.
+
+- People earn points based on how far below the national average per capita emission they are.
+- Company A sells coffee, it wants to be seen as caring about the environment. They have a marketing budget.
+- Company A offers a 10% discount on their coffee for people in exchange of 100 points.
+
+
+TK: This needs to be fleshed out more.
+
+## Open source
+
+### Pledge instead of upvotes for feature requests
+TK
+
+## Dev tools
+
+### Working variant of telepresence
+TK
