@@ -73,7 +73,7 @@ Make an open source UI prototyping editor based on popular frameworks. Alternati
 
 Minimum:
 - Render real frontend code, no canvas, no images, no gimmicks.
-- Must work with as many existing code bases as possible. i.e. Integration with top 5 UI frameworks, 
+- Must work with as many existing code bases as possible. i.e. Integration with top 5 UI frameworks and top 5 css frameworks.
 - Minimum changes to existing projects to get started.
 - 2 edit modes. 1 to edit the grid and another for component dropping within the grid.
 - Avoid bad UI code. Eg: Minimal `position:absolute` elements and minimal inline styles.
