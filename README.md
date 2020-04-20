@@ -83,6 +83,7 @@ Minimum:
 Good to have:
 - Integration with gitlab, github and bitbucket to raise PRs.
 - Ability to make ghost JS/TS methods with notes as comments for developers to implement necessary functionality.
+- Equivalent of sourcemaps for this editor, so that one can enter debug / possibly enter edit mode in production to raise a PR against master (hotfix)
 
 Side benefit: More developers will want to work with the UI. Right now, translating UI from designer prototype to code is sometimes seen as tedious work that most developers do not want to do. Dragging and dropping is much easier than figuring out UI developer code.
 
